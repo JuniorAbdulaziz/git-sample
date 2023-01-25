@@ -1,0 +1,29 @@
+[33mcommit 10d16d6745f72003659cdc11d263b5f5863d548d[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: Block User <aziz.chillaev@mail.ru>
+Date:   Wed Jan 25 22:20:27 2023 +0500
+
+    Test branch
+
+[33mcommit 29dc53e8c7e3834c7bf57372604818ef3a6db40a[m[33m ([m[1;32mnewbranch[m[33m, [m[1;32mmaster[m[33m, [m[1;32mf3[m[33m, [m[1;32mf2[m[33m, [m[1;32mf1[m[33m)[m
+Author: Block User <aziz.chillaev@mail.ru>
+Date:   Tue Jan 24 20:23:56 2023 +0500
+
+    Wrong commit
+
+[33mcommit e7db97f38bee5878c55f7e082a5062f52f28d816[m
+Author: Block User <aziz.chillaev@mail.ru>
+Date:   Tue Jan 24 17:26:16 2023 +0500
+
+    New Commit
+
+[33mcommit 06b3d7993e16363f1ea8dda025b548c66bc92c70[m
+Author: Block User <aziz.chillaev@mail.ru>
+Date:   Tue Jan 24 17:21:52 2023 +0500
+
+    New File
+
+[33mcommit bbae6ce57d2c5d7021f823c196b7c289dd290939[m
+Author: Block User <aziz.chillaev@mail.ru>
+Date:   Tue Jan 24 17:15:30 2023 +0500
+
+    Test status
